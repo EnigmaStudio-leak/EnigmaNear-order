@@ -1,0 +1,4 @@
+name: EnigmaNear
+version: ${project.version}
+main: me.jamesroll.enigmastudio.near
+api-version: 1.18
